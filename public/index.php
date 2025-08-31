@@ -75,7 +75,7 @@ session_start();
     </div>
     <div class="right-col">
       <div class="device-box" style="background:#28a745;">
-        <img src="../assets/cihaz.png" alt="Cihaz 3">
+        <img src="../assets/cihazzz.png" alt="Cihaz 3">
       </div>
       <div class="device-box" style="background:#17a2b8;">
         <img src="../assets/hoparlor.png" alt="Cihaz 4">
